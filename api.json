@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "Charming house near the sea",
+      "type": "House",
+      "price": 120,
+      "capacity": 4,
+      "location": {
+        "city": "Fantasy City",
+        "country": "Fiction"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Modern apartment in the center",
+      "type": "Apartment",
+      "price": 80,
+      "capacity": 2,
+      "location": {
+        "city": "Metropolis",
+        "country": "Imaginary"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Luxury villa with pool",
+      "type": "Villa",
+      "price": 250,
+      "capacity": 8,
+      "location": {
+        "city": "Paradise",
+        "country": "Dreams"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cozy loft in the forest",
+      "type": "Loft",
+      "price": 100,
+      "capacity": 3,
+      "location": {
+        "city": "Enchanted Forest",
+        "country": "Magic"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Traditional house in the mountains",
+      "type": "House",
+      "price": 150,
+      "capacity": 6,
+      "location": {
+        "city": "Serene Summit",
+        "country": "Pure Air"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Apartment with sea view",
+      "type": "Apartment",
+      "price": 90,
+      "capacity": 2,
+      "location": {
+        "city": "Azure Coast",
+        "country": "Horizon"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rustic cabin by the river",
+      "type": "Cabin",
+      "price": 80,
+      "capacity": 4,
+      "location": {
+        "city": "Tranquil River",
+        "country": "Nature"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Elegant suite in the historic center",
+      "type": "Suite",
+      "price": 120,
+      "capacity": 2,
+      "location": {
+        "city": "Historic Center",
+        "country": "History"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bright flat in the artistic neighborhood",
+      "type": "Flat",
+      "price": 110,
+      "capacity": 3,
+      "location": {
+        "city": "Creative Quarter",
+        "country": "Art"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Dream mansion in the countryside",
+      "type": "Mansion",
+      "price": 300,
+      "capacity": 10,
+      "location": {
+        "city": "Serene Countryside",
+        "country": "Tranquility"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Modern penthouse with terrace",
+      "type": "Penthouse",
+      "price": 150,
+      "capacity": 4,
+      "location": {
+        "city": "Urban View",
+        "country": "Modernity"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Picturesque cottage on the hill",
+      "type": "House",
+      "price": 80,
+      "capacity": 2,
+      "location": {
+        "city": "Enchanted Hill",
+        "country": "Traditions"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Chalet with snow jacuzzi",
+      "type": "Chalet",
+      "price": 200,
+      "capacity": 6,
+      "location": {
+        "city": "Snowy Mountain",
+        "country": "Winter"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Cozy studio in the old town",
+      "type": "Studio",
+      "price": 70,
+      "capacity": 2,
+      "location": {
+        "city": "Old Town",
+        "country": "History"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Floating house on the canal",
+      "type": "Floating House",
+      "price": 180,
+      "capacity": 4,
+      "location": {
+        "city": "Enchanted Canal",
+        "country": "Water"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Penthouse with panoramic views",
+      "type": "Penthouse",
+      "price": 160,
+      "capacity": 3,
+      "location": {
+        "city": "Spectacular Views",
+        "country": "Height"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Country house with garden",
+      "type": "House",
+      "price": 130,
+      "capacity": 5,
+      "location": {
+        "city": "Charming Countryside",
+        "country": "Green"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Minimalist apartment in the city",
+      "type": "Apartment",
+      "price": 100,
+      "capacity": 2,
+      "location": {
+        "city": "Modern City",
+        "country": "Minimalism"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Stone house in the mountains",
+      "type": "House",
+      "price": 140,
+      "capacity": 6,
+      "location": {
+        "city": "Robust Mountain",
+        "country": "Nature"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Luxury suite in the skyscraper",
+      "type": "Suite",
+      "price": 200,
+      "capacity": 2,
+      "location": {
+        "city": "Urban Skyscraper",
+        "country": "Luxury"
+      }
+    }
+  ]
+  
